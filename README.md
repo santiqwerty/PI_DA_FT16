@@ -32,7 +32,9 @@ A continuación, se detalla la organización del repositorio:
 │   
 ├── dashboard.pbix        # Dashboard en Power BI con visualización de datos clave.
 │
-├── READMEViejo.md        # El README original de Henry.   
+├── requirements.txt      # Dependencias del proyecto  
+│
+├── READMEViejo.md        # El README original de Henry.
 │
 └── README.md             # El archivo que estas leyendo ahora.
 
@@ -96,7 +98,6 @@ Con la llegada del 5G y el desarrollo de wifi 6, Argentina se encamina hacia una
 - Estadísticas: telecomunicaciones de Argentina – TeleSemana.com [Fuente](https://www.telesemana.com/panorama-de-mercado)
 - Un informe revela cómo cambió el uso de Internet en Argentina en el marco de la pandemia - La Capital: [Fuente](https://www.lacapital.com.ar/economia/un-informe-revela-como-cambio-el-uso-internet-argentina-el-marco-la-pandemia-n2675591.html)
 - La pandemia impacta positivamente en el sector de telecomunicaciones de América Latina - DCD: [Fuente](https://www.datacenterdynamics.com/es/noticias/la-pandemia-impacta-positivamente-en-el-sector-de-telecomunicaciones-de-américa-latina/)
-- Conectar | Argentina.gob.ar: [Fuente](https://www.argentina.gob.ar/jefatura/innovacion-publica/telecomunicaciones-y-conectividad/conectar)
 - El Gobierno lanzó Mi Pueblo Conectado, un programa federal para promover el acceso - Argentina.gob.ar: [Fuente](https://www.argentina.gob.ar/noticias/el-gobierno-lanzo-mi-pueblo-conectado-un-programa-federal-para-promover-el-acceso)
 - Argentina.gob.ar - Conectividad 4G [Fuente](https://www.argentina.gob.ar/noticias/el-gobierno-trabaja-para-que-en-2023-todo-el-pais-tenga-conexion-la-banda-ancha-4g)
 - Noticias Tornquist - Acceso a la Fibra Óptica [Fuente](https://www.noticiastornquist.com.ar/2023/07/10/fuerte-crecimiento-de-acceso-a-la-fibra-optica-en-la-argentina-en-los-ultimos-cuatro-anos-1/)
@@ -119,9 +120,15 @@ Con la llegada del 5G y el desarrollo de wifi 6, Argentina se encamina hacia una
 - Bae Negocios - Proyecciones 5G [Fuente](https://www.baenegocios.com/fintech/5G-en-Argentina-fecha-de-llegada-estimaciones-y-desafios--20210704-0010.html)
 - Forbes Argentina - Nuevas Tecnologías [Fuente](https://www.forbesargentina.com/negocios/nuevas-tecnologias-reinventan-negocio-telcos-n9755)
 
+
+### **Links Útiles**
+
+- API del Servicio de Normalización de Datos Geográficos de Argentina: [Fuente](https://datosgobar.github.io/georef-ar-api/)
+- Fuente de los datasets utilizados: - Acceso a Internet Información de mercado, oferta, demanda y cobertura de los servicios de comunicaciones (2022) [Fuente](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
+
 ## **Tecnologías Utilizadas**
 
-Las tecnologías empleadas en este proyecto son:
+Algunas de las tecnologías empleadas en este proyecto son:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
