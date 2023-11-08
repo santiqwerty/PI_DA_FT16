@@ -136,6 +136,13 @@ Algunas de las tecnologías empleadas en este proyecto son:
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
+!Python **Python 3.11.6**
+!Pandas **Pandas 2.1.2**
+!NumPy **NumPy 1.26.1**
+!PowerBI
+!Jupyter **Jupyter 8.17.2**
+
+
 ## **Datos de Contacto y Recursos Adicionales**
 
 - **Nombre:** Santiago Aguilar
